@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Google Cloud Platformについて
 
-You can use the [editor on GitHub](https://github.com/yito0000/gcp-docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Google Cloud Platformの各サービスを簡単にまとめます
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 概要
 
-### Markdown
+- 概要
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### コンピューティング
 
-```markdown
-Syntax highlighted code block
+- [App Engine](./computing/AppEngine.md)
+- Compute Engine
+- Cloud Functions
 
-# Header 1
-## Header 2
-### Header 3
+### ストレージ
 
-- Bulleted
-- List
+- Datastore
+- Firestore
+- Filestore
+- Storage
+- SQL
 
-1. Numbered
-2. List
+### ネットワーキング
 
-**Bold** and _Italic_ and `Code` text
+- VPCネットワーク
+- ネットワークサービス
+- ネットワークセキュリティ
 
-[Link](url) and ![Image](src)
-```
+### オペレーション
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Monitoring
+- デバッガ
+- トレース
+- Logging
 
-### Jekyll Themes
+### ツール
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yito0000/gcp-docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Cloud Build
+- Cloud Tasks
+- Container Registry
+- Artifact Registry
+- Cloud Scheduler
+- Deployment Manager
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
